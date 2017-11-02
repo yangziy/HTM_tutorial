@@ -1,0 +1,7 @@
+Tutorials for HTM (mostly TSX)
+
+Example1 --> 2 parallel transactions kill each other until they manage to commit
+
+Example2 --> falls-back to the Single Global Lock (SGL)
+
+Example3 --> uses an API to handle HTM among different platforms
